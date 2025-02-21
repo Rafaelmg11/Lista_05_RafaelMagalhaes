@@ -14,4 +14,9 @@ while soma <= 50:
 
 
 
+print("Rafael de Almeida de Magalhães")
+print("FIM DO PROGRAMA!")
+
+
+
 

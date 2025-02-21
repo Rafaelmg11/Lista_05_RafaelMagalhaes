@@ -28,5 +28,8 @@ if numdig != 0:
         i = len(num)
 
         print("A lista tem {} números".format(i))
-            
+
+print("Rafael de Almeida de Magalhães")
+print("FIM DO PROGRAMA!")
+
     

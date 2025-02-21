@@ -15,3 +15,6 @@ while num <= 15 or num >= 20:
         num = int (input('Digite um número entre 15 e 20: '))
 
 print("Obrigado!")
+
+print("Rafael de Almeida de Magalhães")
+print("FIM DO PROGRAMA!")

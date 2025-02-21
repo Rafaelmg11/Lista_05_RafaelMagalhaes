@@ -8,3 +8,5 @@ while cont < 5:
     cont+=+1
 print("O ultimo número que você inseriu foi: {}".format(num))
 
+print("Rafael de Almeida de Magalhães")
+print("FIM DO PROGRAMA!")

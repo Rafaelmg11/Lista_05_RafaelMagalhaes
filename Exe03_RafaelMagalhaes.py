@@ -15,10 +15,12 @@ if resposta == 's':
         num3 = int (input("Digite um número: "))
         soma = soma + num3
         resposta = input("Deseja adicionar outro número? ")
+        resposta.lower()
         
     print("Total:",soma)
 
 else:
     print("Total:",soma)
 
-
+print("Rafael de Almeida de Magalhães")
+print("FIM DO PROGRAMA!")

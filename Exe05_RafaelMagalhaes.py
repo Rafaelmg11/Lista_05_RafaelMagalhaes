@@ -24,3 +24,6 @@ if palpite != adivinha:
 
 elif palpite == adivinha:
     print("Parabéns você acertou de primeira! ")
+
+print("Rafael de Almeida de Magalhães")
+print("FIM DO PROGRAMA!")
